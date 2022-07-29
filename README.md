@@ -1,1 +1,1 @@
-# TechTalentBlog
+# Spring Boot Blog Project
